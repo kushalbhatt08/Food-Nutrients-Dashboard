@@ -15,8 +15,7 @@ Identify nutrient gaps or excesses to prevent deficiencies or health risks.
 
 Promote healthy eating habits through data-driven insights.
 
-**3. Target Users
-**
+**3. Target Users**
 General Consumers: Individuals aiming to maintain or improve health.
 
 Fitness Enthusiasts: Athletes tracking macros & performance nutrition.
@@ -25,8 +24,7 @@ Healthcare Professionals: Dietitians monitoring patients’ intake.
 
 Educational Institutions: Students learning about food science & health.
 
-**4. Benefits
-**
+**4. Benefits**
 ✅ Increases awareness of food choices.
 ✅ Helps manage weight, chronic conditions (diabetes, hypertension).
 ✅ Supports balanced nutrition & lifestyle.
